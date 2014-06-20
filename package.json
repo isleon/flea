@@ -1,0 +1,9 @@
+{
+    "name" : "flea-market",
+    "private" : true,
+    "version" : "1.0.0",
+    "dependencies": {
+        "express": "~3.4.4",
+        "mysql": "~2.3.2"
+    }
+}
